@@ -14,11 +14,6 @@ namespace ScubaChecker
         {
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(T[]));
             Stream st = new MemoryStream();
-            /*            foreach (var item in testsToSerialize)
-                        {
-                            xmlSerializer.Serialize(st, item);
-                        }*/
-            XmlTextWriter xmlTextWriter = new XmlTextWriter(st, Encoding.UTF8);
             xmlSerializer.Serialize(st, testsToSerialize);
             return st;
         }

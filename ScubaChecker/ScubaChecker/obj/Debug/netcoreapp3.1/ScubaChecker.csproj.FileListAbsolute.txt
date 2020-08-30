@@ -1,0 +1,14 @@
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.exe
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.deps.json
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.runtimeconfig.json
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.runtimeconfig.dev.json
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.dll
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\bin\Debug\netcoreapp3.1\ScubaChecker.pdb
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.csprojAssemblyReference.cache
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.AssemblyInfoInputs.cache
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.AssemblyInfo.cs
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.csproj.CoreCompileInputs.cache
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.csproj.CopyComplete
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.dll
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.pdb
+C:\Code\ScubaChecker\ScubaChecker\ScubaChecker\obj\Debug\netcoreapp3.1\ScubaChecker.genruntimeconfig.cache
